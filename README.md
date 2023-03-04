@@ -1,6 +1,5 @@
 # Mohamed Hamed
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> <b>Developer</b>
 
 ![Github Final](https://user-images.githubusercontent.com/61664713/222900651-c37907c7-9fa1-4203-873c-2be919ee6add.gif)
 
