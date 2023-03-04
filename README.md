@@ -1,8 +1,7 @@
 ### Hi there 👋
 ![Github Final](https://user-images.githubusercontent.com/61664713/222900651-c37907c7-9fa1-4203-873c-2be919ee6add.gif)
 
-📫 How to reach me: ##LinkedIn Profile: www.linkedin.com/in/mohamed-hamed-saad
-<a href="https://www.linkedin.com/in/mohamed-hamed-775082196/">
+📫 How to reach me: ##LinkedIn Profile: <a href="https://www.linkedin.com/in/mohamed-hamed-775082196/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 <!--
