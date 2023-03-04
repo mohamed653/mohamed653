@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-<img src="https://i.imgur.com/8wZ1c9M.gif" width="400" height="300"/>
+```c#
+System.Console.WriteLine("Hello!");
+```
 <!--
 **mohamed653/mohamed653** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
 
 Here are some ideas to get you started:
 
