@@ -12,7 +12,7 @@ My LinkedIn Profile: <a href="https://www.linkedin.com/in/mohamed-hamed-77508219
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 My Motives </h3></summary>
    I an computer science student with a passion to learn and create awesome, creative solutions to real-world problems 
 <!--
 **mohamed653/mohamed653** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
