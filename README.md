@@ -25,7 +25,7 @@
   </a>
   
 #
-<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
+
 <details>
  <summary><h3>👨‍💻 My Motives </h3></summary>
    I an computer science student with a passion to learn and create awesome, creative solutions to real-world problems 
