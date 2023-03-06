@@ -29,7 +29,10 @@
 
 <details>
  <summary><h3>👨‍💻 About Me </h3></summary>
-   I an computer science student with a passion to learn and create awesome, creative solutions to real-world problems 
+   # Hi there 👋
+
+I'm a dotnet developer who loves to create web applications using C#, ASP.NET Core and Azure.
+
 <!--
 **mohamed653/mohamed653** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
