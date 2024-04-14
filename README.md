@@ -23,13 +23,7 @@
 
 ## 📫 How to reach me:
 <a href="https://www.linkedin.com/in/mohamed-hamed-775082196/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moalaacs&show_icons=true&locale=en&layout=compact&theme=onedark" alt="moalaacs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moalaacs&show_icons=true&locale=en&theme=onedark" alt="moalaacs" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moalaacs&&theme=onedark" alt="moalaacs" /></p>
 #
 
 
