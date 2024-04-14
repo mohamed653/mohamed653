@@ -25,22 +25,22 @@
 <a href="https://www.linkedin.com/in/mohamed-hamed-775082196/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moalaacs&show_icons=true&locale=en&layout=compact&theme=onedark" alt="moalaacs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moalaacs&show_icons=true&locale=en&theme=onedark" alt="moalaacs" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moalaacs&&theme=onedark" alt="moalaacs" /></p>
 #
 
+
+
+<!--
+**mohamed653/mohamed653** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <details>
  <summary><h3>👨‍💻 About Me </h3></summary>
    # Hi there 👋
 
 I'm a dotnet developer who loves to create web applications using C#, ASP.NET Core and Azure.
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moalaacs&show_icons=true&locale=en&layout=compact&theme=onedark" alt="moalaacs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moalaacs&show_icons=true&locale=en&theme=onedark" alt="moalaacs" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moalaacs&&theme=onedark" alt="moalaacs" /></p>
-<!--
-**mohamed653/mohamed653** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
